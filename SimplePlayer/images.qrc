@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Users/dmitr/Desktop/fight.jpg</file>
+        <file>../../Users/dmitr/Desktop/left.jpg</file>
+        <file>../../Users/dmitr/Desktop/payse.jpg</file>
+        <file>../../Users/dmitr/Desktop/play.jpg</file>
+    </qresource>
+</RCC>
